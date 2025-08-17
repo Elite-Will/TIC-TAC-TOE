@@ -2,7 +2,7 @@
 
 A simple, web-based Tic Tac Toe game built using HTML, CSS, and JavaScript. Play as Player X or O on a 3x3 grid and try to outsmart your opponent!
 
-![Game Screenshot](images/screenshot.png)
+![Game Screenshot](images/screenshot.PNG)
 
 ---
 
@@ -18,7 +18,7 @@ A simple, web-based Tic Tac Toe game built using HTML, CSS, and JavaScript. Play
 
 ## 🚀 Demo
 
-[🔗 Play it live on GitHub Pages](https://Elite-Will.github.io/TIC-TAC-TOE/)  
+[🔗 Play it live on GitHub Pages](https://elite-will.github.io/TIC-TAC-TOE/)  
 
 ---
 
